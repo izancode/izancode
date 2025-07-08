@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizan Shaikh
 
-### 🚀 Full-Stack Developer | MERN | WordPress | PHP
+### 🚀 Full-Stack Developer | React | Nodejs | Express | Mongo
 
 🔭 Currently working at **ATLAS SkillTech University** as a Website Developer  
 🌱 Learning and building projects using **MERN stack**, WordPress, and PHP  
